@@ -1,4 +1,4 @@
-package com.example.administrator.balllottery;
+package com.jiugeren.balllottery;
 
 import org.junit.Test;
 

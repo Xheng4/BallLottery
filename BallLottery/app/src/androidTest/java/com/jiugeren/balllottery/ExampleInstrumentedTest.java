@@ -1,4 +1,4 @@
-package com.example.administrator.balllottery;
+package com.jiugeren.balllottery;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.administrator.balllottery", appContext.getPackageName());
+        assertEquals("com.jiugeren.administrator.balllottery", appContext.getPackageName());
     }
 }
